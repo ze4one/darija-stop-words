@@ -3,3 +3,5 @@
 -------
 ## List 
 Please view list in [here](https://github.com/ze4one/darija-stop-words/blob/main/stopwords.txt). It contains 714 stop words.
+## List 
+This repsitory is licensed under MIT license.
